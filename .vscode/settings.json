@@ -1,0 +1,15 @@
+{
+    "chat.mcp.serverSampling": {
+        "Projet-MCP/.vscode/mcp.json: my-mcp-server-1f44fd27": {
+            "allowedModels": [
+                "copilot/auto",
+                "copilot/claude-haiku-4.5",
+                "copilot/claude-opus-4.5",
+                "copilot/claude-opus-4.6",
+                "copilot/claude-sonnet-4",
+                "copilot/claude-sonnet-4.5",
+                "copilot/claude-sonnet-4.6"
+            ]
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"servers": {
+		"DarghalM-mcp-server1": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+                "DarghalM-ProjetMCP/build/src/server.js"
+			],
+            "cwd": "${workspaceFolder}",
+            "dev": {
+                "watch": "src/**/*.ts",
+                "debug": {
+                    "type": "node"
+                }
+            }
+		}
+	},
+	"inputs": []
+}
