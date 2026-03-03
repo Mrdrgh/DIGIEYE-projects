@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "address": "123 Maple St, Springfield, IL",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@test.com",
+    "address": "456 Oak St, Springfield, IL",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "email": "charlie@test.com",
+    "address": "123 Main St, Omaha, NE",
+    "phone": "555-8765"
+  },
+  {
+    "id": 4,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "sdfsdfsdfsdf",
+    "phone": "34545634534"
+  },
+  {
+    "id": 5,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "123 Main Street, Anytown, ST 12345",
+    "phone": "+1-555-123-4567"
+  },
+  {
+    "id": 6,
+    "name": "Kyle",
+    "email": "test@test.com",
+    "address": "1234 Main st",
+    "phone": "234345345"
+  },
+  {
+    "id": 7,
+    "name": "tests",
+    "email": "qmldkfjq@fmqlkdf.com",
+    "address": "qmlkdfqmlkf",
+    "phone": "132413"
+  },
+  {
+    "id": 8,
+    "name": "mr drgh",
+    "email": "mrdrgh@example.com",
+    "address": "123 Main St",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 9,
+    "name": "Alex",
+    "email": "alex.morgan@gmail.com",
+    "address": "123 Elm St, Springfield, USA",
+    "phone": "+1-555-384-2910"
+  },
+  {
+    "id": 10,
+    "name": "Jordan Hayes",
+    "email": "jordan.hayes@outlook.com",
+    "address": "47 Maple Street, Austin, TX 78701",
+    "phone": "+1-555-382-7461"
+  },
+  {
+    "id": 11,
+    "name": "Sofia Mercier",
+    "email": "sofia.mercier@gmail.com",
+    "address": "12 Rue de Lyon, Paris, France 75003",
+    "phone": "+33-6-52-84-17-39"
+  }
+]
