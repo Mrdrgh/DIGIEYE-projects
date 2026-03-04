@@ -13,7 +13,16 @@
                     "type": "node"
                 }
             }
-		}
+		},
+        "taskflow": {
+            "command": "node",
+            "args": [
+                "/home/mrdrgh/Learn/rxjs/DIGIEYE-projects/DarghalM-ProjetRESTMCP/TaskFlow/MCPServer/dist/server.js"
+            ],
+            "env": {
+                "API_BASE_URL": "http://localhost:5000"
+            }
+        }
 	},
 	"inputs": []
 }
