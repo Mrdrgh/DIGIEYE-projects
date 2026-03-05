@@ -22,7 +22,7 @@ const io = initializeSocket(httpServer);
 app.use(cors({origin: "http://localhost:5500"}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use((req, res, next) => {console.log(`resolving request for path : ${req.method} ${req.url} ${req.body}: ${res.status}`); next();})
+app.use((req, res, next) => {console.log(`resolving request for path : ${req.method} ${req.url}`); next();})
 
 app.get("/", (req: Request, res: Response) => {
     res.json({message: "API is running"});
