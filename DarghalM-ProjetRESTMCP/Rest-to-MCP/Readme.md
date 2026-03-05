@@ -9,5 +9,4 @@ api endpoints provided as tools in the mcp:
 
 --
 ## Instructions
-launch the mcp server in vs code by going to the `mcp.json` file and launching the mcp server `Rest-to-MCP` server.
-check the `package.json` files to launch the servers.
+launch the `startup.sh` script
