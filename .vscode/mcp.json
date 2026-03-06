@@ -20,9 +20,6 @@
                 "DarghalM-ProjetRESTMCP/Rest-to-MCP/MCPServer/dist/server.js"
             ],
             "cwd": "${workspaceFolder}",
-            "env": {
-                "API_BASE_URL": "http://localhost:5000"
-            }
         }
 	},
 	"inputs": []

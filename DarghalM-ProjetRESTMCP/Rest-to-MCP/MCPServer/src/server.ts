@@ -288,8 +288,6 @@ server.setRequestHandler(CallToolRequestSchema, async (request: CallToolRequest)
 async function main() {
   const transport = new StdioServerTransport();
   await server.connect(transport);
-  console.error("TaskFlow Auth MCP Server running on stdio");
-  console.error(`API Base URL: ${API_BASE_URL}`);
 }
 
 main().catch((error) => {
